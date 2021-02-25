@@ -23,4 +23,3 @@ let p2 = sendMessage.bind(person2);
 p1('Welcome', 'Have a great day!');   // Welcome Richard Parker Have a great day!
 p2(['Welcome', 'Have a great day!']); // Welcome,Have a great day! Nimmu Gt undefined
 
-console.log("break");
