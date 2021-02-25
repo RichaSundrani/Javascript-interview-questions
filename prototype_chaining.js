@@ -39,4 +39,4 @@ console.log(obj.d); // undefined
 // obj.[[Prototype]].[[Prototype]].[[Prototype]] is null, stop searching,
 // no property found, return undefined.
 
-console.log("break");
+
